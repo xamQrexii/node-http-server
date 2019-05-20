@@ -1,0 +1,20 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "Node HTTP Module Examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xamQrexii/node-http-server.git"
+  },
+  "author": "Muhammad Osama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xamQrexii/node-http-server/issues"
+  },
+  "homepage": "https://github.com/xamQrexii/node-http-server#readme"
+}
